@@ -1534,7 +1534,7 @@ img.right-img {
 		width: 30rem;
 		height: 60px;
 		margin-top: 20px;
-		border: 2px solid rgba(37, 117, 252, 1);
+		border: 2px solid rgb(0 0 0);
 		font-weight: 700;
 	}
 
